@@ -1,6 +1,6 @@
 ## Hi, I'm Surya
 
-I'm a **Assistant Product Manager at Bloom Hotels**, working across digital guest products, internal tools and on-property experiences.
+I'm an **Assistant Product Manager at Bloom Hotels**, working across digital guest products, internal tools and on-property experiences.
 
 I'm borderline unreasonable about efficiency and automation. A lot of my ideas begin with: **“Why are we still doing this manually?”**
 
